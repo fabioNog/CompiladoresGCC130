@@ -1,0 +1,4 @@
+121 + 1.5 ;
+if true then 10 ;
+while false then 10 ;
+var teste = 10 ;
